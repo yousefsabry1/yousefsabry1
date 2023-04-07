@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm phoenix</h1>
 <h3 align="center">A MNU Student , AIE Engineer</h3>
-<img align="right" alt="Coding" width="400"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg5ZDg1Y2IzYjMyZjQ3NjA2OWFiYzg3YWE1MDIyN2Y0NDBmZWRlYyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif")
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg5ZDg1Y2IzYjMyZjQ3NjA2OWFiYzg3YWE1MDIyN2Y0NDBmZWRlYyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsabry1&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsabry1" /> </p>
 
@@ -12,7 +12,9 @@
 - 🌱 I’m currently learning **C language**
 
 - 📫 How to reach me **yousef.msr3@gmail.com**
-     
+
+- ⚡ Fun fact **i care about small details**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yousef-mahmoud-11807526a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-mahmoud-11807526a/" height="30" width="40" /></a>
