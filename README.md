@@ -1,21 +1,30 @@
-<h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm phoenix</h1>
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<h1 align="center">Hi 👋, I'm phoenix</h1>
 <h3 align="center">A MNU Student , AIE Engineer</h3>
+<img align="right" alt="Coding" width="400"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg5ZDg1Y2IzYjMyZjQ3NjA2OWFiYzg3YWE1MDIyN2Y0NDBmZWRlYyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif")
 
-![A MNU Student , AIE Engineer](https://i.postimg.cc/65dY54Cy/Black.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsabry1&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsabry1" /> </p>
 
-I’m an engineer who making many programes to improve his skills .
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefsabry1" alt="yousefsabry1" /></a> </p>
 
-Skills: C
+- 🔭 I’m currently working on **my skills**
 
-- 🔭 I’m currently working on my skills 
-- 🌱 I’m currently learning c language 
+- 🌱 I’m currently learning **C language**
 
+- 📫 How to reach me **yousef.msr3@gmail.com**
+     
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yousef-mahmoud-11807526a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-mahmoud-11807526a/" height="30" width="40" /></a>
+<a href="https://fb.com/yousef.msr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef.msr6" height="30" width="40" /></a>
+<a href="https://instagram.com/nh_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nh_x" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yousefsabry1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousef-mahmoud-11807526a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yousef.msr6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nh_x/)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefsabry1&show_icons=true&locale=en&layout=compact" alt="yousefsabry1" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefsabry1)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefsabry1&show_icons=true&locale=en" alt="yousefsabry1" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=yousefsabry1)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefsabry1&" alt="yousefsabry1" /></p>
