@@ -1,5 +1,6 @@
-### Hi there 👋, I’m phoenix
-#### A MNU Student , AIE Engineer
+<h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm phoenix</h1>
+<h3 align="center">A MNU Student , AIE Engineer</h3>
+
 ![A MNU Student , AIE Engineer](https://i.postimg.cc/65dY54Cy/Black.png)
 
 I’m an engineer who making many programes to improve his skills .
