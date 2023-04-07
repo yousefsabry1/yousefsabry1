@@ -4,7 +4,8 @@
 
 I’m an engineer who making many programes to improve his skills .
 
-Skills: C
+Skills:
+* C
 
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning c language 
