@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **yousef.msr3@gmail.com**
 
